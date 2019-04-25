@@ -1,21 +1,21 @@
 {
   "name": "registry-pkg-info",
   "version": "1.0.0",
-  "description": "从npm仓库或者指定仓库获取包信息",
+  "description": "get package info from remote registry",
   "main": "index.js",
   "files": [
     "index.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pimaweichai/getRegistryVersion.git"
+    "url": "git+https://github.com/Pimaweichai/RegistryPkgInfo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pimaweichai/getRegistryVersion/issues"
+    "url": "https://github.com/Pimaweichai/RegistryPkgInfo/issues"
   },
-  "homepage": "https://github.com/Pimaweichai/getRegistryVersion#readme",
+  "homepage": "https://github.com/Pimaweichai/RegistryPkgInfo#readme",
   "dependencies": {
     "got": "^9.6.0",
     "registry-auth-token": "^3.4.0",
