@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Pimaweichai/getRegistryVersion#readme",
   "dependencies": {
+    "got": "^9.6.0",
     "registry-auth-token": "^3.4.0",
     "registry-url": "^5.1.0",
     "semver": "^6.0.0"
