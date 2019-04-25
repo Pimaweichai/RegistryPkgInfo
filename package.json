@@ -1,0 +1,24 @@
+{
+  "name": "getregistryversion",
+  "version": "1.0.0",
+  "description": "从npm仓库或者指定仓库获取包最新的版本信息",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pimaweichai/getRegistryVersion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pimaweichai/getRegistryVersion/issues"
+  },
+  "homepage": "https://github.com/Pimaweichai/getRegistryVersion#readme",
+  "dependencies": {
+    "registry-auth-token": "^3.4.0",
+    "registry-url": "^5.1.0",
+    "semver": "^6.0.0"
+  }
+}
