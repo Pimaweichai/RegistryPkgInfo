@@ -1,4 +1,4 @@
-# getRegistryVersion
+# RegistryPkgVersion
 
 [![GitHub issues](https://img.shields.io/github/issues/Pimaweichai/RegistryPkgVersion.svg)](https://github.com/Pimaweichai/RegistryPkgVersion/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Pimaweichai/RegistryPkgVersion.svg)](https://github.com/Pimaweichai/RegistryPkgVersion/network)
