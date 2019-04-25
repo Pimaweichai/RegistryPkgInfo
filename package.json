@@ -1,5 +1,5 @@
 {
-  "name": "registry-pkg-info",
+  "name": "registry-package-info",
   "version": "1.0.0",
   "description": "get package info from remote registry",
   "main": "index.js",
