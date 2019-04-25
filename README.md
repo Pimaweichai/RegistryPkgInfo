@@ -9,13 +9,13 @@
 
 ## Install
 ```
-npm install registry-pkg-info
+npm install registry-package-info
 ```
 
 ## Demo
 
 ```  
-const getRegistryPkgInfo = require('registry-pkg-info');
+const getRegistryPkgInfo = require('registry-package-info');
 
 /* get the latest version package info from npm registry */
 
