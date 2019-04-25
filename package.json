@@ -1,5 +1,5 @@
 {
-  "name": "getregistryversion",
+  "name": "registry-pkg-version",
   "version": "1.0.0",
   "description": "从npm仓库或者指定仓库获取包最新的版本信息",
   "main": "index.js",
